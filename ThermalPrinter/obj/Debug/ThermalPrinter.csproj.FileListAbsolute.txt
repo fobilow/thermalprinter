@@ -1,0 +1,8 @@
+c:\users\fobilow\documents\visual studio 2015\Projects\ThermalPrinter\ThermalPrinter\bin\Debug\ThermalPrinter.exe.config
+c:\users\fobilow\documents\visual studio 2015\Projects\ThermalPrinter\ThermalPrinter\bin\Debug\ThermalPrinter.exe
+c:\users\fobilow\documents\visual studio 2015\Projects\ThermalPrinter\ThermalPrinter\bin\Debug\ThermalPrinter.pdb
+c:\users\fobilow\documents\visual studio 2015\Projects\ThermalPrinter\ThermalPrinter\obj\Debug\ThermalPrinter.csprojResolveAssemblyReference.cache
+c:\users\fobilow\documents\visual studio 2015\Projects\ThermalPrinter\ThermalPrinter\obj\Debug\ThermalPrinter.exe
+c:\users\fobilow\documents\visual studio 2015\Projects\ThermalPrinter\ThermalPrinter\obj\Debug\ThermalPrinter.pdb
+C:\Users\fobilow\Documents\Visual Studio 2015\Projects\ThermalPrinter\ThermalPrinter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fobilow\Documents\Visual Studio 2015\Projects\ThermalPrinter\ThermalPrinter\bin\Debug\Newtonsoft.Json.xml

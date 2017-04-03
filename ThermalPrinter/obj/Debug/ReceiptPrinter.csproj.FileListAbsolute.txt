@@ -1,0 +1,7 @@
+C:\Users\fobilow\Documents\Visual Studio 2015\Projects\ThermalPrinter\ThermalPrinter\bin\Debug\ThermalPrinter.exe.config
+C:\Users\fobilow\Documents\Visual Studio 2015\Projects\ThermalPrinter\ThermalPrinter\bin\Debug\ThermalPrinter.exe
+C:\Users\fobilow\Documents\Visual Studio 2015\Projects\ThermalPrinter\ThermalPrinter\bin\Debug\ThermalPrinter.pdb
+C:\Users\fobilow\Documents\Visual Studio 2015\Projects\ThermalPrinter\ThermalPrinter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fobilow\Documents\Visual Studio 2015\Projects\ThermalPrinter\ThermalPrinter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fobilow\Documents\Visual Studio 2015\Projects\ThermalPrinter\ThermalPrinter\obj\Debug\ThermalPrinter.exe
+C:\Users\fobilow\Documents\Visual Studio 2015\Projects\ThermalPrinter\ThermalPrinter\obj\Debug\ThermalPrinter.pdb
